@@ -1,0 +1,11 @@
+produit_id,nom_produit,categorie,sous_categorie,marque,prix
+P001,Laptop Pro 15,Informatique,Ordinateurs,TechCorp,1200
+P002,MacBook Air,Informatique,Ordinateurs,Apple,1400
+P003,Écran 27 4K,Informatique,Écrans,Dell,350
+P004,Souris Sans Fil,Informatique,Accessoires,Logitech,25
+P005,Clavier Mécanique,Informatique,Accessoires,Razer,85
+P006,Câble USB-C 2m,Informatique,Connectique,Anker,15
+P007,Casque Bluetooth,Audio,Casques,Sony,200
+P008,Écouteurs Sans Fil,Audio,Écouteurs,JBL,60
+P009,Smartphone X,Téléphonie,Smartphones,Samsung,900
+P010,Chargeur Rapide,Téléphonie,Accessoires,Belkin,30

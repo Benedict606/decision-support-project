@@ -1,0 +1,24 @@
+=============================================================================
+ RAPPORT DE QUALITÉ ET JOURNAL D'EXÉCUTION ETL
+=============================================================================
+Date et heure d'exécution : 2026-09-29 23:08:11
+Statut global : SUCCÈS 
+
+1. STATISTIQUES D'EXTRACTION (SOURCES)
+   - Lignes brutes de ventes lues : 50500
+   - Référentiel clients : 1000 entrées
+   - Référentiel produits : 10 entrées
+   - Référentiel magasins : 5 entrées
+
+2. CONTRÔLE DE QUALITÉ ET NETTOYAGE
+   - Doublons détectés et supprimés : 500 lignes
+   - Valeurs aberrantes / négatives filtrées : Conformité validée
+   - Intégrité référentielle (Clés étrangères) : 100% rattachées
+
+3. CHARGEMENT DÉFINITIF (DATA WAREHOUSE)
+   - Lignes finales chargées dans FACT_VENTES : 50000
+   - Dimensions synchronisées : DIM_TEMPS, DIM_CLIENT, DIM_PRODUIT, DIM_MAGASIN
+
+=============================================================================
+ Fin du rapport - Projet Business Intelligence (Benedict Lubembela)
+=============================================================================
