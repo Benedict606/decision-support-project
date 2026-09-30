@@ -63,7 +63,7 @@ Le projet est entièrement conteneurisé. La manière la plus simple et rapide d
 1. Clonez le dépôt sur votre machine :
 
 ```bash
-git clone [https://github.com/votre-nom-utilisateur/decision-support-project.git](https://github.com/votre-nom-utilisateur/decision-support-project.git)
+git clone https://github.com/Benedict606/decision-support-project.git
 cd decision-support-project
 
 ```
